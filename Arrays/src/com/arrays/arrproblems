@@ -1,0 +1,22 @@
+ /**
+    * 
+   1.Wap to find the sum of elements of an array
+   2.Wap to sort the array in ascending order.
+	   Input:ar={21,24,19,11,35}
+   3.Wap to find the sum of all even numbers
+      Input:arr={1,3,2,4,6,7,8,9};
+   4.Wap to print all prime number from given array.
+      Input:arr={1,2,4,13,15,23}
+   5.Wap to find the pair of elements whose sum equals to k.
+      Input:arr={4,2,3,5,6,1,8,9}, k=10
+   6.Wap to find 2nd largest element from an array.
+      Input:arr={4,2,9,1,3,7,8}
+   7.Wap to find the count of k element from an array.
+      Input:arr={1,3,4,1,5,6,1,1,1,7} k=1
+   8.Wap to find the peak element from an array.
+      Input:arr={1,2,4,5,10,6}
+   9.Wap to put all negative number on left of array n positive on right.
+       Input:arr={2,3,-1,-3,-4,5,-6,7,-8,-9}
+   10.Wap to arrange all 0,1 and 2 without sorting.
+       Input:arr={1,0,0,1,1,2,2,0,0,0,1,1};
+    */
